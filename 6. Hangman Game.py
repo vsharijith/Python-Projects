@@ -105,7 +105,7 @@ x = random.choice(category)
 
 print(logo)
 
-print("Welcome to Hangman.\naYou have 6 lives to guess each letter. Life decreases as you guess the wrong letter.\n\n")
+print("Welcome to Hangman.\nYou have 6 lives to guess each letter. Life decreases as you guess the wrong letter.\n\n")
 
 if x == hollywood:
     print("Guess the Hollywood Film!\n*spaces and special characters can be used*")
