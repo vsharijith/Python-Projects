@@ -42,5 +42,3 @@ while bid_continue is True:
         find_highest_bidder(bids)
     elif to_continue == "yes":
         print("\n"*50)
-
-print("Hello")
